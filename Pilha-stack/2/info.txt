@@ -1,0 +1,2 @@
+Implementacao de Pilhas em 'C' usando Ponteiros 
+por Wilder 'w1ldr' Ribeiro
